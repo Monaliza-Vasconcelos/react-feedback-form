@@ -48,7 +48,7 @@ src/
 ---
 
 1️⃣ Clonar repositório
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/Monaliza-Vasconcelos/react-feedback-form.git)
+git clone https://github.com/Monaliza-Vasconcelos/react-feedback-form.git
 
 ---
 
