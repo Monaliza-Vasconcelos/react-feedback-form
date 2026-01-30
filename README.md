@@ -53,7 +53,7 @@ git clone https://github.com/Monaliza-Vasconcelos/react-feedback-form.git
 ---
 
 2️⃣ Entrar na pasta
-cd NOME-DO-REPO
+cd atividade2-react
 
 ---
 
