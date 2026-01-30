@@ -75,5 +75,3 @@ http://localhost:5173
 ---
 
 Autora: Monaliza de Vasconcelos Coelho
-
->>>>>>> dc0dc690698055d527996d4ae18c9d1d7bfb58f5
